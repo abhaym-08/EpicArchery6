@@ -1,1 +1,1 @@
-# EpicArchery6
+# Project Template 26
